@@ -1,0 +1,153 @@
+/*
+Theme Name: Child theme for Colorway
+Theme URI: http://www.inkthemes.com/wp-themes/colorway-wp-theme/
+Description: For Claudia's Book site
+Version: 1.0
+Author: Valerie Sundman
+Author URI: http://valeriesundman.com
+License: GNU General Public License
+License URI: license.txt
+Tags: author, book
+Template: colorway
+ */
+
+@import url(http://fonts.googleapis.com/css?family=Miss+Fajardose);
+
+
+.content-info h3 {
+	font-size: 34px;
+	margin-bottom: 0;
+}
+.content-info h4{
+	font-size: 18px;
+}
+p{
+	color: #000;
+}
+.content-wrapper p{
+	line-height: 35px;
+}
+.page-template-template-fullwidth p {
+	padding: 10px 30px;
+	margin: 0 auto;
+}
+.footer-navi .right-navi{
+
+	text-align: left;
+}
+
+
+
+@media only screen and ( min-width: 767px ) {
+.logo a:after{
+content:"Claudia Mulcahy";
+font-size: 90px;
+font-family: "Miss Fajardose", sans-serif;
+display: block;
+position: relative;
+bottom: 50px;
+text-shadow: 1px 2px 5px #2B4908;
+}
+.logo:before{
+content: "Author. Teacher. Thriver. ";
+font-size: 20px;
+position: relative;
+top: 135px;
+left: 10px;
+}
+.logo:after{
+content: "Teaching, Demonstrating and Inspiring People to Live at Higher Levels of Consciousness.";
+position: relative;
+display: block;
+font-style:italic;
+padding-top: 20px;
+}
+.logo img{
+float: left;
+padding-bottom: 20px;
+padding-right: 30px;
+}
+.header .menu-bar{
+clear: both;
+}
+}
+
+.flex-direction-nav .flex-next,
+.flex-direction-nav .flex-prev{
+	display: none;
+}
+
+
+
+
+
+
+
+@media only screen and ( max-width: 960px ) {
+	.slides_container .slide .slide-content.entry{
+		width: 40%;
+		}
+		.slides_container .slide .slide-content.entry p{
+			font-size: 12px;
+		}
+		.slides_container .slide .slide-content.entry h3{
+			font-size: 18px;
+		}
+		.slides_container .slide .slide-content.entry h2{
+			font-size: 20px;
+		}
+}
+
+.slides_container .slide .slide-content.entry{
+	border-right: none;
+}
+
+
+
+div#content .columns div{
+width:26%;
+padding: 10px;
+margin-right: 5%;
+}
+.columns div h2 a{
+font-size: 14px;
+}
+.columns h4{
+color: #53149B;
+font-weight: bold;
+}
+.columns h6{
+font-size: 12px;
+margin-bottom: 10px;
+font-style: italic;
+}
+.slide-img{
+	width: 100%;
+	height: auto;
+}
+.slide-content h3+a{
+text-align: center;
+font-size: 22px;
+background-color: #75419B;
+color: #fff;
+padding: 10px;
+}
+.slide-content h3+a:hover{
+background-color: #7D46A5;
+}
+
+
+
+
+.last{
+display: none;
+}
+#menu li.current-menu-item a, #menu li a.selected, #menu li.current-menu-parent a, #menu li.current_page_parent a, #menu li a.selected, #menu li a:hover, #menu li.current_page_item a{
+background-color: #75419B;
+}
+#menu .sf-menu li{
+font-size: 18px;
+}
+blockquote{
+display:none;
+}
