@@ -31,6 +31,22 @@
                                 <?php } else { ?>
                                     <p><?php _e('What happens when beauty and simplicity connects. We tried to give you a slight hint of that with the Colorway Theme.', 'colroway'); ?></p>
                                 <?php } ?>
+                                <div style="margin-left:95px;width:170px;">
+                                    <form target="_blank" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                                        <input type="hidden" name="cmd" value="_xclick">
+                                        <input type="hidden" name="business" value="N9Y8B9TN4NNQG">
+                                        <input type="hidden" name="item_name" value="Cancer: What to Do or Say">
+                                        <input type="hidden" name="currency_code" value="USD">
+                                        <input type="hidden" name="amount" value="99.99">
+                                        <input type="hidden" name="lc" value="EN_US">
+                                        <input type="hidden" name="no_note" value="">
+                                        <input type="hidden" name="return" value="">
+                                        <input type="hidden" name="bn" value="WPPlugin_SP">
+                                        <input type="hidden" name="cancel_return" value="">
+                                        <input style="border: none;height:auto;width:213px;" class="paypalbuttonimage" type="image" src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/buy-logo-medium.png" border="0" name="submit" alt="Make your payments with PayPal. It is free, secure, effective.">
+                                        <img alt="" border="0" style="border:none;display:none;" src="https://www.paypal.com/EN_US/i/scr/pixel.gif" width="1" height="1">
+                                    </form>
+                                </div>
                             </div>
                             <!-- /.slide-content -->
                             <?php if (inkthemes_get_option('colorway_slideimage1') != '') { ?>

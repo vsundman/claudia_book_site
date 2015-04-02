@@ -125,17 +125,9 @@ font-style: italic;
 	width: 100%;
 	height: auto;
 }
-.slide-content h3+a{
-text-align: center;
-font-size: 22px;
-background-color: #75419B;
-color: #fff;
-padding: 10px;
+.slide-content h3{
+	text-align: center;
 }
-.slide-content h3+a:hover{
-background-color: #7D46A5;
-}
-
 
 
 
