@@ -37,7 +37,7 @@
                                         <input type="hidden" name="business" value="N9Y8B9TN4NNQG">
                                         <input type="hidden" name="item_name" value="Cancer: What to Do or Say">
                                         <input type="hidden" name="currency_code" value="USD">
-                                        <input type="hidden" name="amount" value="99.99">
+                                        <input type="hidden" name="amount" value="16.95">
                                         <input type="hidden" name="lc" value="EN_US">
                                         <input type="hidden" name="no_note" value="">
                                         <input type="hidden" name="return" value="">
