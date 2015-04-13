@@ -31,22 +31,7 @@
                                 <?php } else { ?>
                                     <p><?php _e('What happens when beauty and simplicity connects. We tried to give you a slight hint of that with the Colorway Theme.', 'colroway'); ?></p>
                                 <?php } ?>
-                                <div style="margin-left:95px;width:170px;">
-                                    <form target="_blank" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-                                        <input type="hidden" name="cmd" value="_xclick">
-                                        <input type="hidden" name="business" value="N9Y8B9TN4NNQG">
-                                        <input type="hidden" name="item_name" value="Cancer: What to Do or Say">
-                                        <input type="hidden" name="currency_code" value="USD">
-                                        <input type="hidden" name="amount" value="16.95">
-                                        <input type="hidden" name="lc" value="EN_US">
-                                        <input type="hidden" name="no_note" value="">
-                                        <input type="hidden" name="return" value="">
-                                        <input type="hidden" name="bn" value="WPPlugin_SP">
-                                        <input type="hidden" name="cancel_return" value="">
-                                        <input style="border: none;height:auto;width:213px;" class="paypalbuttonimage" type="image" src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/buy-logo-medium.png" border="0" name="submit" alt="Make your payments with PayPal. It is free, secure, effective.">
-                                        <img alt="" border="0" style="border:none;display:none;" src="https://www.paypal.com/EN_US/i/scr/pixel.gif" width="1" height="1">
-                                    </form>
-                                </div>
+
                             </div>
                             <!-- /.slide-content -->
                             <?php if (inkthemes_get_option('colorway_slideimage1') != '') { ?>
@@ -64,7 +49,29 @@
             </div>
             <!-- /#slides -->
         </div>
+
     </div>
+        <div class="small" >
+            <form target="_blank" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                <input type="hidden" name="cmd" value="_xclick">
+                <input type="hidden" name="business" value="N9Y8B9TN4NNQG">
+                <input type="hidden" name="item_name" value="Cancer: What to Do or Say">
+                <input type="hidden" name="currency_code" value="USD">
+                <input type="hidden" name="amount" value="16.95">
+                <input type="hidden" name="lc" value="EN_US">
+                <input type="hidden" name="no_note" value="">
+                <input type="hidden" name="return" value="">
+                <input type="hidden" name="bn" value="WPPlugin_SP">
+                <input type="hidden" name="cancel_return" value="">
+                <input style="border: none;height:auto;width:213px;" class="paypalbuttonimage" type="image" src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/buy-logo-medium.png" border="0" name="submit" alt="Make your payments with PayPal. It is free, secure, effective.">
+                <img alt="" border="0" style="border:none;display:none;" src="https://www.paypal.com/EN_US/i/scr/pixel.gif" width="1" height="1">
+            </form>
+        </div>
+
+
+
+
+
 <?php 
     echo do_shortcode("[metaslider id=129]"); 
 ?>
@@ -174,47 +181,19 @@
                 <div class="<?php if (inkthemes_get_option('colorway_home_page_blog_post') == 'on_with_sidebar') {
                 ?>grid_16 alpha<?php } else {
                 ?>grid_24<?php } ?>">
-                    <div class="content-wrap home">
-                        <?php if (inkthemes_get_option('inkthemes_blog_head') != '') { ?>
-                            <h1 class="blog_head"><?php echo stripslashes(inkthemes_get_option('inkthemes_blog_head')); ?></h1>
-                        <?php } else { ?>
-                            <h1 class="blog_head"><?php _e('From The Blog', 'colorway'); ?></h1>
-                        <?php } ?> 
-                        <div class="blog" id="blogmain">
-                            <ul class="blog_post">
-                                <!-- Start the Loop. -->
-                                <?php
-                                $post_on_home_page = inkthemes_get_option('inkthemes_blog_posts');
-                                $post_on_home_page--;
-                                ?>
-                                <?php query_posts("posts_per_page=$post_on_home_page"); ?>
-                                <?php if (have_posts()) : while (have_posts()) : the_post(); ?>
-                                        <li id="post-<?php the_ID();
-                                        ?>" <?php post_class(); ?>>
-                                                <?php if ((function_exists('has_post_thumbnail')) && (has_post_thumbnail())) { ?>
-                                                <a href="<?php the_permalink(); ?>">
-                                                    <?php the_post_thumbnail('post_thumbnail', array('class' => 'postimg')); ?>
-                                                </a>
-                                                <?php
-                                            } else {
-                                                echo inkthemes_main_image();
-                                            }
-                                            ?>
-                                            <h1><a href="<?php the_permalink() ?>" rel="bookmark" title="<?php _e('Permanent Link to ', 'colorway') . the_title_attribute(); ?>"><?php the_title(); ?></a></h1>
-                                            <?php echo inkthemes_custom_trim_excerpt(25); ?>
-                                            <a href="<?php the_permalink() ?>"><?php _e('Continue Reading...', 'colorway'); ?></a> </li>
-                                        <!-- End the Loop. -->
-                                        <?php
-                                    endwhile;
-                                else:
-                                    ?>
-                                    <li>
-                                        <p> <?php _e('Sorry, no posts matched your criteria.', 'colorway'); ?> </p>
-                                    </li>
-                                <?php endif; ?>
-                            </ul>
-                        </div>
-                    </div>
+                 
+
+
+
+                <div class="book">
+                    <img src="http://claudiamulcahy.com/wp-content/uploads/2015/03/CWTDOS-finalcover-web400x600px1-e1426654530369.jpg"> 
+                </div>
+
+
+
+
+
+
                 </div>
                 <?php if (inkthemes_get_option('colorway_home_page_blog_post') == 'on_with_sidebar') {
                     ?>

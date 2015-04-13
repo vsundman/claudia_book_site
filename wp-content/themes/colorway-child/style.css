@@ -14,6 +14,90 @@ Template: colorway
 @import url(http://fonts.googleapis.com/css?family=Miss+Fajardose);
 
 
+div.metaslider{
+		position: relative !important;
+}
+
+
+.footer-container a{
+	color: #fff !important;
+}
+.slide-image{
+	background: none;
+}
+
+.page a{
+	color: #314818;
+}
+.book{
+	width: 100%;
+	text-align: center;
+}
+.book img{
+	padding: 30px;
+	margin: 0 auto;
+	margin-top: 40px;
+}
+.info-author{
+	text-align: center;
+	padding-top: 30px;
+}
+div.small{
+	position: relative;
+	margin: 0 auto;
+	width: 170px;
+}
+
+.info-author h1{
+font-size: 58px;
+font-family: "Miss Fajardose", sans-serif;
+display: block;
+position: relative;
+text-shadow: 1px 2px 5px #385B10;
+text-align: center;
+color: #223906;
+font-weight: normal;
+margin-bottom: 0;
+}
+.container_24 .grid_24.slider{
+	visibility: hidden;
+	height: 0;
+}
+.slider-container{
+	height: 330px;
+}
+.container_24 .grid_24{
+	margin: 0;
+}
+.page-template-template-fullwidth p{
+	margin: 0;
+	padding: 0;
+}
+.slides_container .slide .slide-content.entry{
+	height: 260px;
+}
+.paypalbuttonimage{
+	width: 100% !important;
+}
+iframe{
+	max-width: 180px !important;
+}
+div.fb-like-box span{
+	width:180px !important;
+}
+.page #content .one_fourth h2 a,
+.page .columns h6{
+	color: #000;
+}
+h1, h2, h3, h4, h5, h6{
+	color: #000;
+}
+#menu .sf-menu li li a,
+#menu .sf-menu li li a:hover{
+background-color: #314818;
+}
+
+
 .content-info h3 {
 	font-size: 34px;
 	margin-bottom: 0;
@@ -35,37 +119,106 @@ p{
 
 	text-align: left;
 }
+@media only screen and ( min-width: 480px ){
+#content .columns .one_fourth{
+	width: 100%;
+	padding: 20px;
+	line-height: 20px;
+}
+#content{
+	margin: 0 auto;
+}
 
+.slides_container .slide .slide-content.entry h2{
+	font-weight: bold;
+}
 
+}
 
 @media only screen and ( min-width: 767px ) {
-.logo a:after{
-content:"Claudia Mulcahy";
-font-size: 90px;
+			div.small{
+			display: block;
+			position: relative;
+			bottom: 90px;
+			right: 200px;
+		}
+
+
+		div.pay{
+			display: none;
+		}
+
+	.info-author{
+		padding-right: 10px;
+		padding-left: 20px;
+	}
+	.container_24 .grid_24.slider{
+	visibility: visible;
+	height: 473px;
+}
+.metaslider{
+	display: block;
+}
+
+.metaslider.nav-hidden .flexslider{
+	overflow: hidden;
+	width: 700px !important;
+
+}
+.slide .slide-content.entry .title{
+	line-height: 10px;
+	margin-bottom: 10px;
+}
+.slide .slide-content.entry h3{
+	font-size: 16px;
+	font-weight: bold;
+	margin-bottom: 15px;
+}
+
+.slide .slide-content.entry ul{
+	margin-bottom: 0;
+	padding: 5px 0;
+	list-style-type: circle;
+	font-size: 14px;
+	line-height: 28px;
+}
+
+.slide-content p:nth-child(2){
+display: none;
+}
+
+.slide-content p{
+	padding: 0;
+}
+.info-author h1{
+font-size: 70px;
 font-family: "Miss Fajardose", sans-serif;
 display: block;
 position: relative;
-bottom: 50px;
-text-shadow: 1px 2px 5px #2B4908;
+text-shadow: 1px 2px 5px #385B10;
+text-align: center;
+color: #223906;
+font-weight: normal;
+margin-bottom: 0;
 }
-.logo:before{
-content: "Author. Teacher. Thriver. ";
-font-size: 20px;
+.info-author h2{
+font-size: 22px;
 position: relative;
-top: 135px;
-left: 10px;
+text-align: center;
+
 }
-.logo:after{
-content: "Teaching, Demonstrating and Inspiring People to Live at Higher Levels of Consciousness.";
+.info-author h4{
 position: relative;
 display: block;
-font-style:italic;
-padding-top: 20px;
+text-align: center;
+font-size: 16px;
 }
 .logo img{
 float: left;
 padding-bottom: 20px;
-padding-right: 30px;
+margin-right: 0;
+float: left;
+width: 50%;
 }
 .header .menu-bar{
 clear: both;
@@ -77,37 +230,157 @@ clear: both;
 	display: none;
 }
 
-
-
-
-
-
+.container_24 .grid_24{
+	width: 100%;
+}
 
 @media only screen and ( max-width: 960px ) {
+	#slides div.slide-image {
+    background: none !important;
+}
+
 	.slides_container .slide .slide-content.entry{
-		width: 40%;
+		width: 42%;
 		}
 		.slides_container .slide .slide-content.entry p{
-			font-size: 12px;
+			font-size: 15px;
+			padding: 5px 0;
+			text-align: center;
 		}
 		.slides_container .slide .slide-content.entry h3{
 			font-size: 18px;
 		}
 		.slides_container .slide .slide-content.entry h2{
 			font-size: 20px;
+			text-align: center;
 		}
+
 }
+
+
+@media only screen and ( min-width: 960px ){
+	#slide-box{
+	margin-left: 50px;
+	padding-top:25px;
+}
+	.logo{
+	width: 60%;
+}
+.info-author{
+	padding: 0;
+}
+.info-author h1{
+	font-size: 90px;
+}
+#content .columns .one_fourth{
+	width: 40%;
+}
+.slide .slide-content.entry{
+	bottom: 0;
+
+}
+.slides_container .slide .slide-content.entry{
+	height: 325px;
+}
+		.slides_container .slide .slide-content.entry p{
+			font-size: 14px;
+			text-align: center;
+		}
+		.slides_container .slide .slide-content.entry h3{
+			font-size: 16px;
+		}
+		.slides_container .slide .slide-content.entry h2{
+			font-size: 30px;
+			margin-bottom: 20px;
+			font-weight: normal;
+			text-align: center;
+		}
+		.slider-container ul{
+			list-style-type: circle;
+		}
+		.slide .slide-content.entry{
+	background: none!important;
+}
+
+		div.small{
+			display: block;
+			position: relative;
+			bottom: 106px;
+			right: 170px;
+
+		}
+		div.pay{
+			display: none;
+		}
+
+}
+
+
+
+@media only screen and ( min-width: 1261px ){
+
+		.container_24 .grid_24.slider{	visibility: visible;
+	height: 473px;
+	}
+
+
+.metaslider{
+	display: block;
+}
+	#slide-box{
+	margin-left: 130px;
+}
+	
+.container_24 .grid_24.slider{
+	margin-bottom: 100px;
+}
+
+.slides_container .slide .slide-content.entry{
+	height: 413px;
+}
+.slide .slide-content.entry{
+	background: none!important;
+}
+.slides_container .slide .slide-content.entry h2{
+	padding: 10px 0;
+	font-size: 32px;
+}
+.slides_container .slide .slide-content.entry h3{
+	padding: 5px 0;
+	font-size: 22px;
+}
+.slides_container .slide .slide-content.entry p{
+	font-size: 16px;
+	padding-bottom: 5px;
+}
+.slide .slide-content.entry ul{
+	line-height: 35px;
+}
+.slider-container{
+	padding-bottom: 0px;
+	height: 500px;
+}
+.slides_container .slide .slide-content.entry h2{
+	padding-top: 20px;
+}
+
+
+}
+
+
 
 .slides_container .slide .slide-content.entry{
 	border-right: none;
 }
 
 
-
 div#content .columns div{
-width:26%;
+width: 40%;
 padding: 10px;
 margin-right: 5%;
+}
+.bigthumbs img{
+	max-width: 100px;
 }
 .columns div h2 a{
 font-size: 14px;
@@ -131,9 +404,7 @@ font-style: italic;
 
 
 
-.last{
-display: none;
-}
+
 #menu li.current-menu-item a, #menu li a.selected, #menu li.current-menu-parent a, #menu li.current_page_parent a, #menu li a.selected, #menu li a:hover, #menu li.current_page_item a{
 background-color: #75419B;
 }
