@@ -1,0 +1,330 @@
+/*
+Theme Name: puddle
+Theme URI: http://www.tenman.info/wp3/puddle
+Description: Child of Raindrops CMS focused Presentation.
+Author: Tenman
+Author URI: http://www.tenman.info/wp3/
+Version: 1.216
+Tags:black, blue, gray, brown, green, orange, pink, purple, red, silver, tan, white, yellow,dark,light,one-column,two-columns,three-columns,four-columns,left-sidebar,right-sidebar , custom-colors, custom-header, custom-background, custom-menu, editor-style, theme-options, threaded-comments, sticky-post, translation-ready, post-formats, featured-images, full-width-template,fluid-layout, fixed-layout
+License: GNU General Public License v2.0
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Template: raindrops
+Text Domain: puddle
+*/
+
+/*
+Note:
+	Raindrops Theme Automatic include css files.
+	No need import stylesheet with @import
+*/
+
+body{
+	color:#333;
+}
+
+.rd-type-puddle #doc4{
+    width:974px;
+}
+.rd-type-puddle #doc2{
+    width:950px;
+}
+.rd-type-puddle #doc{
+    width:750px;
+}
+li.question {
+	background:url(./images/icon.png);
+}
+.answer {
+	background:url(./images/icon.png);
+}
+li.byuser,
+.bypostauthor{
+	background:url(images/bg.png);
+}
+.home .sticky {
+	background:url(images/sticky.png);
+}
+#comments .form-allowed-tags:before,
+#comments .nopassword:before,
+#comments .nocomments:before,
+.comment-notes:before,
+.logged-in-as:before{
+	background: url("images/info.png");
+	background-size: 16px 16px;
+}
+#respond .required,
+.comment-form-email .required,
+.comment-form-author .required,
+.comment-notes .required{
+	overflow: hidden;
+	background:url("images/require.png");
+	background-size:16px 16px;
+	background-repeat:no-repeat;
+}
+
+.error404 .entry-title:before{
+	content:" ";
+    background-size:cover;
+	background: url("images/stop.png");
+}
+
+address .comments-rss:after,
+address .entry-rss:after{
+	background: url("images/rss.png");
+}
+.format-link .entry-content p:first-of-type a{
+	background: url("images/sticky.png");
+}
+.raindrops-chat-author-0:before{
+ 	background-image: url('images/raindrops-chat-author-0.png');
+}
+.raindrops-chat-author-1:before{
+ 	background-image: url('images/raindrops-chat-author-1.png');
+}
+.raindrops-chat-author-2:before{
+ 	background-image: url('images/raindrops-chat-author-2.png');
+
+}
+.raindrops-chat-author-3:before{
+ 	background-image: url('images/raindrops-chat-author-3.png');
+
+}
+.raindrops-chat-author-4:before{
+ 	background-image: url('images/raindrops-chat-author-4.png');
+
+}
+.raindrops-chat-author-5:before{
+ 	background-image: url('images/raindrops-chat-author-5.png');
+
+}
+
+.icon-link-no-title{
+	background: url("images/link.png");
+	background-size:24px 24px;
+}
+.icon-post-format-aside{
+	background: url("images/post-format-aside.png");
+	background-size:24px 24px;
+	width:24px;
+	height:24px;
+}
+
+.icon-post-format-audio{
+	background: url("images/post-format-audio.png");
+/*	background-size:24px 24px;
+	width:24px;
+	height:24px;*/
+}
+.icon-post-format-chat{
+	background: url("images/post-format-chat.png");
+}
+.icon-post-format-gallery{
+	background: url("images/post-format-gallery.png");
+
+}
+.icon-post-format-image{
+	background: url("images/post-format-image.png");
+}
+.icon-post-format-link{
+	background: url("images/post-format-link.png");
+}
+.icon-post-format-quote{
+	background: url("images/post-format-quote.png");
+}
+.icon-post-format-status{
+	background: url("images/post-format-status.png");
+}
+
+.icon-post-format-video{
+	background: url("images/post-format-video.png");
+}
+
+.attachment-navigation .prev a{
+	background:url("images/previous.png");
+	background-repeat:no-repeat;
+	background-position: left 50%;
+}
+.nav-previous a:before{
+	background: url("images/previous.png");
+}
+.nav-next a:after{
+	background: url("images/next.png");
+}
+.attachment-navigation .next a{
+	background:url("images/next.png");
+	background-repeat:no-repeat;
+	background-position: right 50%;
+}
+.portfolio-prev:after{
+	content: url( images/next.png );
+}
+
+.portfolio-next:before,
+.portfolio-page2:before{
+	content: url( images/previous.png );
+}
+
+.after-nav-menu #recentcomments,
+.after-nav-menu .widget_recent_entries ul{
+	margin-top:30px;
+}
+.after-nav-menu li{
+	list-style:none;
+}
+.after-nav-menu .recentcomments{
+	margin:1em 0;
+}
+
+/* show header image only home setting example
+
+	body:not(.home) #header-image{ display:none;}
+*/
+
+/* when date archive , header image change example
+*/
+	.date #header-image{
+		background:url(images/headers/hanamiyama.jpg);
+		background-size:cover;
+	}
+	.category #header-image{
+		background:url(images/headers/rasyoumon.jpg);
+		background-size:cover;
+	}
+	.tag #header-image{
+		background:url(images/headers/zaobokujou.jpg);
+		background-size:cover;
+	}
+
+
+.banner-image{
+	max-width:100%;
+	height:auto;
+	}
+
+.menu-header .sub-menu li a,
+.menu-header .children li a{
+	font-size:81.225%;
+}
+
+.widget_puddle_socialwidget{
+	padding:10px;
+
+}
+.widget_puddle_socialwidget .genericon{
+	display:inline-block;
+	width:32px;
+	height:32px;
+
+}
+.widget_puddle_socialwidget .genericon:hover{
+	color:#fff;
+	background:#000;
+}
+#bd .widget_puddle_socialwidget a{
+	color:inherit;
+	width:32px!important;
+	height:32px;
+	display:inline-block;
+	overflow:hidden;
+	text-decoration:none!important;
+	margin:5px;
+}
+.widget_puddle_socialwidget .link-text{
+	display:none;
+}
+.widget_puddle_socialwidget .genericon:before{
+	font-size:32px;
+}
+
+.h2-thumb img{
+	width:32px;
+	height:32px;
+	border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border: 4px solid #800000;
+}
+
+.puddle-list-post-formats-wrapper{
+
+padding:40px 0 0;
+width:750px;
+margin:auto;
+max-width:90%;
+}
+#puddle-list-post-formats{}
+#puddle-list-post-formats a,
+#puddle-list-post-formats li {
+	width:80px; height:80px;display:inline-block;
+	overflow: hidden;
+	margin:0;
+}
+#puddle-list-post-formats span{ display:none; }
+
+#puddle-list-post-formats .genericon:before{
+	font-size:80px;
+}
+
+
+
+.home .poster-row-2,
+.home .poster-row-1{
+	height:340px;
+	overflow:hidden;
+}
+
+.home .sample-tab-list .raindrops-tab-list li{
+	width:32%;
+	overflow:hidden;
+}
+
+@media screen and (max-width : 640px){
+
+	.home .poster-row-2,
+	.home .poster-row-1{
+		height:auto;
+		overflow:visible;
+	}
+}
+
+#portfolio .index li{
+	background-position:center!important;
+}
+
+.widget_puddle_entrywidget{
+	position:relative;
+}
+
+.puddle-entrywidget-attachment-title{
+	position:absolute;
+	top:0;
+	background:#000;
+	color:#fff;
+	width:100%;
+	text-transform:uppercase;
+	text-indent:.4em;
+	white-space: nowrap;
+  	overflow: hidden;
+	 -o-text-overflow: ellipsis;
+  	text-overflow:    ellipsis;
+	font-size:123.1%;
+}
+.coal a{
+    color:#fff;
+
+}
+
+.coal .entry-title{
+    font-weight:bold;
+    font-size:123.1%;
+}
+.rd-type-puddle #nav-below,
+.rd-type-puddle #archives-title{
+    margin:2em 0;
+}
+.rd-type-puddle .format-status .entry-meta-list,
+.rd-type-puddle .category-blog .entry-meta-list {
+float:left;
+}
+
+

@@ -1,0 +1,1455 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: puddle\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-01-06 15:14+0900\n"
+"PO-Revision-Date: 2014-01-06 15:19+0900\n"
+"Last-Translator: Akio Tenman <a.tenman@gmail.com>\n"
+"Language-Team: puddle-i18n <a.tenman@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Japanese\n"
+"X-Poedit-Country: JAPAN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;esc_html__;esc_html_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-Basepath: e:/apache2.2/htdocs/odekake/public_html/\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: wp/wp-content/themes/puddle\n"
+
+#: wp/wp-content/themes/puddle/approach-2-1.php:17
+msgid "News"
+msgstr "ニュース"
+
+# @ Raindrops
+#: wp/wp-content/themes/puddle/inc.php:435
+#, fuzzy
+msgid "Title:"
+msgstr "タイトル:"
+
+#: wp/wp-content/themes/puddle/inc.php:436
+msgid "URLs:"
+msgstr "URL："
+
+#: wp/wp-content/themes/puddle/inc.php:577
+msgid "comma separated IDs[Randum Displayed]"
+msgstr "IDはカンマ区切りにしてください「ランダム表示します｣"
+
+# @ Raindrops
+#: wp/wp-content/themes/puddle/inc.php:591
+#, fuzzy
+msgid "Post:"
+msgstr "投稿:"
+
+# @ Raindrops
+#: wp/wp-content/themes/puddle/inc.php:602
+#, fuzzy
+msgid "Page:"
+msgstr "ページ"
+
+# @ Raindrops
+#: wp/wp-content/themes/puddle/inc.php:616
+#, fuzzy
+msgid "Content:"
+msgstr "内容"
+
+#: wp/wp-content/themes/puddle/inc.php:627
+#, fuzzy
+msgid "Excerpt:"
+msgstr "抜粋"
+
+# @ Raindrops
+#: wp/wp-content/themes/puddle/inc.php:637
+msgid "Attachment IMG:"
+msgstr "添付画像"
+
+#: wp/wp-content/themes/puddle/inc.php:865
+msgid "Approach Row1 Col1"
+msgstr "トップページ１段目1カラム"
+
+#: wp/wp-content/themes/puddle/inc.php:875
+msgid "Approach Row1 Col2"
+msgstr "トップページ１段目2カラム"
+
+#: wp/wp-content/themes/puddle/inc.php:884
+msgid "Approach Row2 Col1"
+msgstr "トップページ2段目1カラム"
+
+#: wp/wp-content/themes/puddle/inc.php:893
+msgid "Approach Row2 Col2"
+msgstr "トップページ2段目2カラム"
+
+#: wp/wp-content/themes/puddle/inc.php:902
+msgid "Approach Row2 Col3"
+msgstr "トップページ2段目3カラム"
+
+# @ Raindrops
+#: wp/wp-content/themes/puddle/inc.php:957
+msgid "Puddle Option"
+msgstr "Puddle オプション"
+
+# @ Raindrops
+#: wp/wp-content/themes/puddle/loop.php:97
+msgid "Edit"
+msgstr "編集"
+
+# @ Raindrops
+#: wp/wp-content/themes/puddle/loop.php:99
+msgid "Trash"
+msgstr "ゴミ箱"
+
+# @ Raindrops
+#, fuzzy
+#~ msgid "Error 404 - Not Found"
+#~ msgstr "エラー: 設定ページが見つかりませんでした。"
+
+# @ Raindrops
+#, fuzzy
+#~ msgid ""
+#~ "Apologies, but no results were found for the requested Archive. Perhaps "
+#~ "searching will help find a related post."
+#~ msgstr ""
+#~ "リクエストされたアーカイブには何も見つかりませんでした。検索すれば関連投稿"
+#~ "が見つかるかもしれません。"
+
+# @ Raindrops
+#~ msgid "Author Archives: %s"
+#~ msgstr "著者アーカイブ: %s"
+# @ Raindrops
+#, fuzzy
+#~ msgid "Author Avatar Image"
+#~ msgstr "背景画像を削除"
+
+# @ Raindrops
+#, fuzzy
+#~ msgid "Profile"
+#~ msgstr "プロフィール"
+
+# @ Raindrops
+#, fuzzy
+#~ msgid "Website"
+#~ msgstr "ウェブサイト"
+
+# @ Raindrops
+#~ msgid "registered"
+#~ msgstr "registered"
+# @ Raindrops
+#, fuzzy
+#~ msgid "Recent post"
+#~ msgstr "投稿を更新しました。"
+
+# @ Raindrops
+#~ msgid "Categories :"
+#~ msgstr "かてごり"
+# @ Raindrops
+#, fuzzy
+#~ msgid "Tag :"
+#~ msgstr "タグ"
+
+#, fuzzy
+#~ msgid "Format :"
+#~ msgstr "フォーマット"
+
+# @ Raindrops
+#~ msgid "No posts by this author."
+#~ msgstr "この著者の投稿はありません"
+# @ Raindrops
+#~ msgid "Page %s"
+#~ msgstr "ページ %s"
+# @ Raindrops
+#, fuzzy
+#~ msgid "Recent posts"
+#~ msgstr "最近の投稿"
+
+# @ Raindrops
+#~ msgid "Categories"
+#~ msgstr "かてごり"
+# @ Raindrops
+#, fuzzy
+#~ msgid "Tags"
+#~ msgstr "タグ"
+#~ msgid "Continue&nbsp;reading"
+#~ msgstr "続きを読む"
+
+# @ Raindrops
+#, fuzzy
+#~ msgid "Skip to content"
+#~ msgstr "コンテンツへ移動"
+
+# @ Raindrops
+#, fuzzy
+#~ msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+#~ msgstr "<span class=\"meta-nav\">&larr;</span> 古い投稿"
+
+# @ Raindrops
+#, fuzzy
+#~ msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+#~ msgstr "新しい投稿 <span class=\"meta-nav\">&rarr;</span>"
+
+# @ Raindrops
+#~ msgid "Entries <span>(RSS)</span>"
+#~ msgstr "エントリ(RSS)"
+# @ Raindrops
+#~ msgid "Comments <span>(RSS)</span>"
+#~ msgstr "コメント(RSS)"
+# @ Raindrops
+#~ msgid "Raindrops Theme"
+#~ msgstr "レインドロップス　テーマ"
+# @ Raindrops
+#~ msgid "This post is password protected."
+#~ msgstr "この投稿はパスワードで保護されています。"
+# @ Raindrops
+#~ msgid "Enter the password to view any comments."
+#~ msgstr "コメントを表示するにはパスワードを入力してください。"
+#  Raindrops
+#~ msgid "One Response to %2$s"
+#~ msgid_plural "%1$s Responses to %2$s"
+#~ msgstr[0] "%2$sへ1件のレスポンス"
+#~ msgstr[1] "%2$sへ%1$s件のレスポンス"
+# @ Raindrops
+#~ msgid "Older Comments"
+#~ msgstr "過去のコメント"
+# @ Raindrops
+#~ msgid "Newer Comments"
+#~ msgstr "新しいコメント"
+# @ Raindrops
+#~ msgid "Newer Comments "
+#~ msgstr "新しい コメント"
+# @ Raindrops
+#~ msgid "Comments are closed."
+#~ msgstr "コメントは受け付けていません"
+# @ Raindrops
+#, fuzzy
+#~ msgid "Sunday"
+#~ msgstr "日曜日"
+
+# @ Raindrops
+#, fuzzy
+#~ msgid "Monday"
+#~ msgstr "月曜日"
+
+# @ Raindrops
+#, fuzzy
+#~ msgid "Tuesday"
+#~ msgstr "火曜日"
+
+# @ Raindrops
+#, fuzzy
+#~ msgid "Wednesday"
+#~ msgstr "水曜日"
+
+# @ Raindrops
+#, fuzzy
+#~ msgid "Thursday"
+#~ msgstr "木曜日"
+
+# @ Raindrops
+#, fuzzy
+#~ msgid "Friday"
+#~ msgstr "金曜日"
+
+# @ Raindrops
+#, fuzzy
+#~ msgid "Saturday"
+#~ msgstr "土曜日"
+
+# @ Raindrops
+#~ msgid "Yearly Archives"
+#~ msgstr "年別アーカイブ: "
+# @ Raindrops
+#~ msgid "Monthly Archives"
+#~ msgstr "月別アーカイブ"
+# @ Raindrops
+#~ msgid "Daily Archives"
+#~ msgstr "日別アーカイブ: "
+# @ Raindrops
+#~ msgid "and"
+#~ msgstr "　"
+#~ msgid "Entries RSS"
+#~ msgstr "投稿フィード"
+# @ Raindrops
+#~ msgid "Comments RSS"
+#~ msgstr "コメントフィード"
+# @ Raindrops
+#~ msgid "Primary Navigation"
+#~ msgstr "主ナビゲーション"
+# @ Raindrops
+#~ msgid "Default Sidebar"
+#~ msgstr "デフォルトサイドバー"
+# @ Raindrops
+#~ msgid "Extra Sidebar"
+#~ msgstr "エキストラサイドバー"
+# @ Raindrops
+#~ msgid "Sticky Widget"
+#~ msgstr "スティッキーウィジェット"
+# @ Raindrops
+#~ msgid "Footer Widget"
+#~ msgstr "フッターウィジェット"
+#~ msgid "Post Format Status Sidebar"
+#~ msgstr "投稿フォーマット　ステータス　サイドバー"
+# @ Raindrops
+#~ msgid "If you add  %s when you must create function %s for data validation"
+#~ msgstr ""
+#~ "フォームに新しい項目(%s)を追加したら、その項目のバリデーション関数（%s）も"
+#~ "書かなければなりませんよ"
+#~ msgid "Avatar"
+#~ msgstr "アバター"
+# @ Raindrops
+#, fuzzy
+#~ msgid "says:"
+#~ msgstr "%s <span class=\"says\">より:</span>"
+
+# @ Raindrops
+#~ msgid "%1$s at %2$s"
+#~ msgstr "%1$s at %2$s"
+# @ Raindrops
+#, fuzzy
+#~ msgid " Edit "
+#~ msgstr "編集"
+
+# @ Raindrops
+#, fuzzy
+#~ msgid "Your comment is awaiting moderation."
+#~ msgstr "あなたのコメントは管理者の承認待ちです。"
+#~ msgid "Reply"
+#~ msgstr "返信"
+
+# @ Raindrops
+#, fuzzy
+#~ msgid "Pingback:"
+#~ msgstr "ピンバック:"
+
+# @ Raindrops
+#~ msgid "This entry was posted in"
+#~ msgstr " "
+#~ msgid "and tagged"
+#~ msgstr "タグ"
+#~ msgid "Bookmark the"
+#~ msgstr "&nbsp;　　"
+#, fuzzy
+#~ msgid "%1$s %5$s %2$s %6$s %3$s %4$s"
+#~ msgstr "%1$s  %2$s　 %3$s %4$s"
+#~ msgid "View all posts by %s"
+#~ msgstr " %sのすべての投稿"
+#~ msgid "Posted on"
+#~ msgstr " "
+#~ msgid "by"
+#~ msgstr "&nbsp; "
+
+# @ Raindrops
+#~ msgid "Description"
+#~ msgstr "概要"
+# @ Raindrops
+#~ msgid "Theme URI"
+#~ msgstr "テーマ　URI"
+# @ Raindrops
+#, fuzzy
+#~ msgid "Author"
+#~ msgstr "作成者"
+
+# @ Raindrops
+#~ msgid "Version"
+#~ msgstr "バージョン"
+# @ Raindrops
+#~ msgid "Change log text"
+#~ msgstr "変更履歴"
+# @ Raindrops
+#~ msgid "Changelog , display new window"
+#~ msgstr "変更履歴の表示（新しい画面）"
+# @ Raindrops
+#~ msgid "Readme text"
+#~ msgstr "説明書き"
+# @ Raindrops
+#~ msgid "Readme , display new window"
+#~ msgstr "説明の表示（新しい画面)"
+# @ Raindrops
+#, fuzzy
+#~ msgid "raindrops infomation"
+#~ msgstr "レインドロップス　その他の設定"
+
+# @ Raindrops
+#~ msgid "Tips"
+#~ msgstr "コネタ"
+# @ Raindrops
+#~ msgid ""
+#~ "If Raindrops Options panel is opened, and the reference color is set, "
+#~ "this arrangement of color is changed at once."
+#~ msgstr ""
+#~ "レインドロップスの設定画面から、基本色を設定するとそれに応じた背景色クラス"
+#~ "が自動生成します"
+# @ Raindrops
+#~ msgid "Dinamic Color Class"
+#~ msgstr "動的な色クラス"
+# @ Raindrops
+#~ msgid "code example:please HTML editor mode"
+#~ msgstr "HTMLモードを使ってくださいね"
+# @ Raindrops
+#~ msgid "Dinamic Gradient Class"
+#~ msgstr "動的なグラデーションクラス"
+# @ Raindrops
+#~ msgid "About Featured Image"
+#~ msgstr "アイキャッチ画像について"
+# @ Raindrops
+#~ msgid ""
+#~ "image width and height aspect ratio is 3:1. another aspect ratio will be "
+#~ "trimming center"
+#~ msgstr ""
+#~ "画像の幅と、高さの比は3;1です。これ以外の比率の場合は中央に合わせてトリミ"
+#~ "ングします"
+# @ Raindrops
+#, fuzzy
+#~ msgid "Sorry Your PHP version is %s Please use PHP version 5 || later."
+#~ msgstr ""
+#~ "あなたの使っているバージョンは　 %s　です。このバージョンは、サポートして"
+#~ "いないので、PHP５以降を使ってください。"
+
+# @ Raindrops
+#, fuzzy
+#~ msgid ""
+#~ "Thank you for adopting the %1$s theme. It is necessary to set it to this "
+#~ "theme. Please move to a set screen clicking this "
+#~ msgstr ""
+#~ "%1$s テーマを使ってくれてありがとう。テーマを利用する前に<a href=\"%2$s\">"
+#~ "%1$s テーマ　オプションページ</a>をクリックして、一度だけ、テーマオプショ"
+#~ "ンページを表示させてください"
+
+# @ Raindrops
+#, fuzzy
+#~ msgid "Raindrops settings view"
+#~ msgstr "&#8220;%s&#8221; を表示"
+
+# @ Raindrops
+#~ msgid "%s Articles archived"
+#~ msgstr "%s のアーカイブがあります"
+# @ Raindrops
+#, fuzzy
+#~ msgid "Search Results"
+#~ msgstr "検索結果"
+
+# @ Raindrops
+#~ msgid "Tag Archives"
+#~ msgstr "タグ別アーカイブ: "
+# @ Raindrops
+#~ msgid "Category Archives"
+#~ msgstr "かてごり別アーカイブ"
+# @ Raindrops
+#~ msgid "Author Archives"
+#~ msgstr "作成者別アーカイブ: "
+#, fuzzy
+#~ msgid "Post Format"
+#~ msgstr "日付フォーマット"
+
+# @ Raindrops
+#~ msgid "Blog Archives"
+#~ msgstr "ブログ　アーカイブ"
+# @ Raindrops
+#~ msgid "Current theme is fluid settings"
+#~ msgstr "現在のテーマは、ページ幅がブラウザにフィットします"
+# @ Raindrops
+#~ msgid "image size will be shrink to fit page"
+#~ msgstr "画像サイズは、ページサイズにフィットします"
+# @ Raindrops
+#, fuzzy
+#~ msgid "Theme Settings"
+#~ msgstr "サムネイル設定"
+
+# @ Raindrops
+#, fuzzy
+#~ msgid " Page %s"
+#~ msgstr "ページ"
+
+# @ Raindrops
+#~ msgid "Raindrops theme settings"
+#~ msgstr "レインドロップス　テーマ設定"
+# @ Raindrops
+#~ msgid "Another Settings link"
+#~ msgstr "その他の設定"
+# @ Raindrops
+#~ msgid "Custom Header"
+#~ msgstr "カスタムヘッダー"
+# @ Raindrops
+#~ msgid "Widget"
+#~ msgstr "ウィジェット"
+# @ Raindrops
+#, fuzzy
+#~ msgid "Nav Menus"
+#~ msgstr "ナビゲーションメニュー"
+
+# @ Raindrops
+#~ msgid "Raindrops Settings"
+#~ msgstr "レインドロップス設定"
+# @ Raindrops
+#~ msgid "Theme"
+#~ msgstr "テーマ"
+#~ msgid "Dashbord"
+#~ msgstr "ダッシュボード"
+# @ Raindrops
+#~ msgid "Base color"
+#~ msgstr "ベースカラー"
+# @ Raindrops
+#~ msgid "Color Type"
+#~ msgstr "配色タイプ"
+# @ Raindrops
+#, fuzzy
+#~ msgid "Page width"
+#~ msgstr "固定幅"
+
+# @ Raindrops
+#~ msgid "Menu Primary"
+#~ msgstr "メインメニュー"
+# @ Raindrops
+#, fuzzy
+#~ msgid "Font Color"
+#~ msgstr "背景色"
+
+# @ Raindrops
+#, fuzzy
+#~ msgid "Link Color"
+#~ msgstr "背景色"
+
+# @ default
+#, fuzzy
+#~ msgid ""
+#~ "add_action(  '%1$s', 'your_function'  ) or add template part file the "
+#~ "name '%2$s'."
+#~ msgstr ""
+#~ "add_action( '%1$s', 'your_function' ) あるいは'%2$s'.テンプレートを追加し"
+#~ "ていただく事で、この場所にコンテンツを追加できます"
+
+# @ Raindrops
+#, fuzzy
+#~ msgid "Featured Image"
+#~ msgstr "アイキャッチ画像"
+#~ msgid "Continue&nbsp;reading "
+#~ msgstr "続きを読む"
+#~ msgid "&nbsp;Post ID&nbsp;"
+#~ msgstr "&nbsp;投稿 ID&nbsp;"
+#~ msgid " Older posts"
+#~ msgstr "過去の投稿"
+
+# @ Raindrops
+#~ msgid "Newer posts"
+#~ msgstr "新しい投稿"
+# @ Raindrops
+#, fuzzy
+#~ msgid "Archives"
+#~ msgstr "アーカイブ"
+
+# @ Raindrops
+#, fuzzy
+#~ msgid "Recent Post"
+#~ msgstr "投稿を更新しました。"
+
+# @ Raindrops
+#~ msgid "Prev Month(  %sth  )"
+#~ msgstr "前月（ %s月 )"
+# @ Raindrops
+#~ msgid "Next Month(  %sth  )"
+#~ msgstr "次月（ %s月 )puddle"
+#~ msgid "New window"
+#~ msgstr "新しいウィンドウ"
+# @ Raindrops
+#, fuzzy
+#~ msgid "Empty content"
+#~ msgstr "内容の種類"
+
+#, fuzzy
+#~ msgid "&laquo; Older Entries"
+#~ msgstr "&laquo; 古いコメント"
+
+#, fuzzy
+#~ msgid "Newer Entries &raquo;"
+#~ msgstr "新しいコメント &raquo;"
+
+# @ Raindrops
+#, fuzzy
+#~ msgid "Now Page"
+#~ msgstr "ページを更新しました。"
+#~ msgid "Portfolio Home"
+#~ msgstr "ポートフォリオ　ホーム"
+
+# @ Raindrops
+#~ msgid "Entry : "
+#~ msgstr "投稿："
+# @ Raindrops
+#, fuzzy
+#~ msgid "Sorry, no attachments matched your criteria."
+#~ msgstr "条件に合う投稿はありませんでした。"
+
+# @ Raindrops
+#~ msgid "Category:"
+#~ msgstr "カテゴリー："
+# @ Raindrops
+#~ msgid "Tags:"
+#~ msgstr "タグ："
+# @ Raindrops
+#~ msgid "Author:"
+#~ msgstr "作成者："
+# @ Raindrops
+#~ msgid "Leave a comment"
+#~ msgstr "コメントを　どうぞ"
+# @ Raindrops
+#~ msgid "1 Comment"
+#~ msgstr "1 コメント"
+# @ Raindrops
+#~ msgid "% Comments"
+#~ msgstr "% コメント"
+# @ Raindrops
+#~ msgid "This gallery contains %1$s photographs in all as "
+#~ msgstr "このギャラリーは、%1$s　枚の画像があります"
+# @ Raindrops
+#~ msgid "photograph etc."
+#~ msgstr "写真　他"
+#~ msgid "View posts in the Gallery category"
+#~ msgstr "カテゴリー　Gallery 投稿の表示"
+#~ msgid "Gallery"
+#~ msgstr "ギャラリー"
+# @ Raindrops
+#, fuzzy
+#~ msgid "Link to Category"
+#~ msgstr "リンクカテゴリーの追加"
+
+# @ Raindrops
+#~ msgid ""
+#~ "Nothing was found though it was regrettable. Please change the key word "
+#~ "if it is good, and retrieve it."
+#~ msgstr ""
+#~ "残念ですが、何も見つかりませんでした。よろしければ、別のキーワードで、再度"
+#~ "お試しください"
+#~ msgid "must not contain html tags"
+#~ msgstr "htmlタグは使えません"
+# @ Raindrops
+#, fuzzy
+#~ msgid "Search"
+#~ msgstr "検索"
+
+# @ Raindrops
+#, fuzzy
+#~ msgid "Pages"
+#~ msgstr "ページ"
+
+# @ Raindrops
+#, fuzzy
+#~ msgid "Meta"
+#~ msgstr "メタ情報"
+#~ msgid "Sticky Post Shows Only WEB Site Home."
+#~ msgstr "スティキー投稿は、トップページだけで表示します"
+
+# @ Raindrops
+#~ msgid "Color Scheme"
+#~ msgstr "カラースキーム"
+# @ Raindrops
+#~ msgid "Please choose the naming convention for the color list"
+#~ msgstr "色選択リスト用の配色セットを選んでください"
+# @ Raindrops
+#~ msgid "Base Color for Automatic Color Arrangement"
+#~ msgstr "自動配色のための基本色設定"
+# @ Raindrops
+#~ msgid ""
+#~ "Please specify your favorite color. and an automatic arrangement of color "
+#~ "is designed."
+#~ msgstr "好きな色をセットしていただければ、自動的に配色します"
+# @ Raindrops
+#~ msgid ""
+#~ "The mood like dark atmosphere and the bright note, etc. is decided. and "
+#~ "The editor is displayed when themename is selected, and a present style "
+#~ "can be edited in detail."
+#~ msgstr ""
+#~ "dark、light、等を選ぶと自動配色します テーマ名を選択すると、現在のスタイル"
+#~ "をカスタマイズするためのエディタ画面が表示されます。"
+# @ Raindrops
+#~ msgid "Header background image"
+#~ msgstr "ヘッダの背景画像"
+# @ Raindrops
+#~ msgid ""
+#~ "The header image can be set by two methods.\n"
+#~ "One is a method of up-loading the image from the below up-loading form. "
+#~ "Another is a method of filling in the filename from this textfield from "
+#~ "Raindrops/images something image."
+#~ msgstr "ヘッダー画像は2つの方法でセットできます"
+# @ Raindrops
+#~ msgid "Footer background image"
+#~ msgstr "フッターの背景画像"
+# @ Raindrops
+#~ msgid ""
+#~ "The footer image can be set by two methods.\n"
+#~ "One is a method of up-loading the image from the below up-loading form. "
+#~ "Another is a method of filling in the filename from this textfield from "
+#~ "Raindrops/images something image."
+#~ msgstr "フッターの画像は2つの方法でセットできます"
+# @ Raindrops
+#~ msgid "Widget Title Background Image"
+#~ msgstr "ウィジェットタイトルの背景画像"
+# @ Raindrops
+#~ msgid ""
+#~ "The header image can be chosen from among three kinds [h2.png,h2b.png,h2c."
+#~ "png]."
+#~ msgstr ""
+#~ "ウィジェットタイトルの画像は、h2.png,h2b.png,h2c.pngから選んでください"
+# @ Raindrops
+#~ msgid "Widget Title Background Image Position"
+#~ msgstr "ウィジェットタイトル背景の画像位置設定"
+# @ Raindrops
+#, fuzzy
+#~ msgid ""
+#~ "The name of the picture file used for the h2 headding is set. Please set "
+#~ "the integral value from 0 to 7. "
+#~ msgstr ""
+#~ "h2見出し用の背景画像を選んだら、さらにどの画像にするか、0から7の半角英数で"
+#~ "指定してください"
+
+# @ Raindrops
+#~ msgid "Page Width"
+#~ msgstr "ページ幅"
+#~ msgid "Please choose width on the page."
+#~ msgstr "ページ幅を設定してください。　"
+#~ msgid "Please choose from four kinds of inside of"
+#~ msgstr "次の、4種類から選択できます。"
+#~ msgid "750px centerd 950px centerd fluid 974px."
+#~ msgstr ""
+#~ "750px　950px　974px　固定幅　及び、フルードレイアウト（レスポンシブ）"
+# @ Raindrops
+#~ msgid "Column Width and Position"
+#~ msgstr "サイドバーの幅と位置"
+# @ Raindrops
+#~ msgid ""
+#~ "Please specify the position and the width of Default Sidebar. Six kinds "
+#~ "of sidebars of left 160px left 180px left 300px right 180px right 240px "
+#~ "right 300px can be specified."
+#~ msgstr ""
+#~ "サイドバーは、6種類の設定が出来ます。 left 160px left 180px left 300px "
+#~ "right 180px right 240px right 300pxから選んでください"
+# @ Raindrops
+#~ msgid "Text color in content "
+#~ msgstr "コンテンツの文字の色"
+# @ Raindrops
+#~ msgid "If you need to set contents Special font color."
+#~ msgstr "コンテンツの文字色を指定したい時に"
+# @ Raindrops
+#~ msgid "Text color in footer "
+#~ msgstr "フッターの文字色"
+# @ Raindrops
+#~ msgid "If you need to set footer Special font color."
+#~ msgstr "フッターの文字色を指定したい時に、"
+# @ Raindrops
+#~ msgid ""
+#~ "Please specify show when you want to use three row layout. Please set "
+#~ "Ratio to text when extra sidebar is displayed when you specify show"
+#~ msgstr "3カラムレイアウトを使いたいときには、showを選択してください。"
+# @ Raindrops
+#~ msgid "Extra Sidebar Width"
+#~ msgstr "エキストラサイドバー　幅"
+#~ msgid "When display extra sidebar is set to show"
+#~ msgstr "エキストラサイドバーを表示する場合、"
+#~ msgid "it is necessary to specify it."
+#~ msgstr "設定してください。　"
+#~ msgid "It can decide to divide the width of which place of extra sidebar"
+#~ msgstr "エキストラサイドバーがコンテンツ幅に占める割合"
+#~ msgid "and to give it. Please select it from among 25% 33% 50% 66% 75%. "
+#~ msgstr "　25% 33% 50% 66% 75%の中から選択してください"
+# @ Raindrops
+#~ msgid ""
+#~ "Display or not Menu Primary. default value is show. set hide when not "
+#~ "display menu primary"
+#~ msgstr "メインメニューの表示と非表示"
+# @ Raindrops
+#~ msgid "Link color"
+#~ msgstr "リンクの色"
+# @ Raindrops
+#~ msgid "Hyper link color"
+#~ msgstr "リンクの色"
+#~ msgid "Accessibility Settings"
+#~ msgstr "アクセシビリティ設定"
+#~ msgid ""
+#~ "Accessibility Settings is create a unique link text. set to yes or no."
+#~ msgstr ""
+#~ "アクセシビリティセッティングはリンクテキストをユニークなものに変更します。"
+#~ "yes または no を入力してください"
+# @ Raindrops
+#, fuzzy
+#~ msgid "Document Type Settings"
+#~ msgstr "ギャラリー設定を更新"
+#~ msgid "Default Document type html5. Set to xhtml or html5."
+#~ msgstr ""
+#~ "html文書型は、標準でhtml5です。xhtml　または　html5を入力してください"
+
+#, fuzzy
+#~ msgid "Post Errors 14"
+#~ msgstr "無効な投稿形式です"
+
+#, fuzzy
+#~ msgid "Post Errors 18"
+#~ msgstr "無効な投稿形式です"
+
+# @ Raindrops
+#~ msgid " Theme Settings"
+#~ msgstr "テーマ設定"
+# @ Raindrops
+#~ msgid "Saved Database table name:"
+#~ msgstr "この設定が保存されるデータベーステーブル"
+# @ Raindrops
+#, fuzzy
+#~ msgid "updated %1$s successfully."
+#~ msgstr "%1$s の更新に成功しました。"
+
+# @ Raindrops
+#~ msgid " MultiSite User must Click here !!"
+#~ msgstr "マルチサイトの方は、ここをクリックする必要があります"
+# @ Raindrops
+#, fuzzy
+#~ msgid "updated %s fail."
+#~ msgstr "投稿を更新しました。"
+
+# @ Raindrops
+#~ msgid "WordPress Native Theme Options"
+#~ msgstr "ワードプレスのデザイン設定"
+# @ Raindrops
+#~ msgid "Theme customizer"
+#~ msgstr "テーマカスタマイザー"
+# @ Raindrops
+#~ msgid "Custom Background"
+#~ msgstr "カスタム背景"
+# @ Raindrops
+#~ msgid "Menus"
+#~ msgstr "メニュー"
+# @ Raindrops
+#~ msgid "Theme Editor"
+#~ msgstr "テーマファイルの編集"
+# @ Raindrops
+#~ msgid "Raindrops Extend Theme Options"
+#~ msgstr "テーマ、レインドロップスの拡張設定"
+# @ Raindrops
+#~ msgid "go to Color Type"
+#~ msgstr "配色タイプへ移動"
+# @ Raindrops
+#~ msgid "Go to upload form"
+#~ msgstr "アップロードフォームへ移動"
+# @ Raindrops
+#~ msgid "Go to Base Color"
+#~ msgstr "フォント色へ移動"
+# @ Raindrops
+#, fuzzy
+#~ msgid "Value"
+#~ msgstr "値"
+
+# @ Raindrops
+#, fuzzy
+#~ msgid "Color"
+#~ msgstr "色"
+#~ msgid "Save"
+#~ msgstr "保存"
+
+# @ Raindrops
+#~ msgid "Please reload this page ex. windows F5"
+#~ msgstr "恐縮ですが、このページをリロード(F5)してください。"
+# @ default
+#~ msgid "Now constant RAINDROPS_USE_AUTO_COLOR is false"
+#~ msgstr "定数　TMN_USE_AUTO_COLOR　が　false　に設定されています"
+# @ Raindrops
+#~ msgid "Image Upload"
+#~ msgstr "画像アップロード"
+# @ Raindrops
+#, fuzzy
+#~ msgid "Upload"
+#~ msgstr "アップロード"
+
+# @ Raindrops
+#, fuzzy
+#~ msgid "Header Image"
+#~ msgstr "ヘッダー画像"
+
+# @ Raindrops
+#~ msgid "Footer Image"
+#~ msgstr "フッター画像"
+# @ Raindrops
+#, fuzzy
+#~ msgid "no-repeat"
+#~ msgstr "繰り返しなし"
+
+# @ Raindrops
+#~ msgid "repeat-x"
+#~ msgstr "横方向に繰り返し"
+# @ Raindrops
+#~ msgid "position:"
+#~ msgstr "位置"
+# @ Raindrops
+#, fuzzy
+#~ msgid "top:"
+#~ msgstr "上"
+
+# @ Raindrops
+#~ msgid "px"
+#~ msgstr "ピクセル"
+# @ Raindrops
+#, fuzzy
+#~ msgid "left:"
+#~ msgstr "左"
+
+# @ Raindrops
+#~ msgid "box height:"
+#~ msgstr "高さ"
+# @ Raindrops
+#~ msgid "Go to current header image"
+#~ msgstr "ヘッダー画像の項目へ移動"
+# @ Raindrops
+#~ msgid "Go to current footer image"
+#~ msgstr "フッター画像の項目へ移動"
+#~ msgid "Cannot be trusted data"
+#~ msgstr "信頼できないデータ"
+#~ msgid "Can not Upload Security issue"
+#~ msgstr "安全性の問題で、アップロードできません"
+#~ msgid "purpose no data"
+#~ msgstr "purpose no data"
+#~ msgid "style no data"
+#~ msgstr "style no data"
+#~ msgid "position top no data"
+#~ msgstr "position top no data"
+# @ Raindrops
+#~ msgid "position no data"
+#~ msgstr "positionに値がありません"
+# @ Raindrops
+#~ msgid "box height no data"
+#~ msgstr "高さのデータがありません"
+# @ Raindrops
+#~ msgid "%s is not permitted filetype."
+#~ msgstr "%sは許可されていないファイルタイプです"
+#~ msgid "%s function is not exists"
+#~ msgstr "%s　関数はありません"
+# @ Raindrops
+#~ msgid "%d px * %d width too big. limit %d px"
+#~ msgstr "%d px * %d は画像サイズが大きすぎます　最大 %d pxに制限しています"
+#~ msgid "It failed in up-loading."
+#~ msgstr "アップロード　失敗"
+# @ Raindrops
+#, fuzzy
+#~ msgid "none"
+#~ msgstr "なし"
+
+# @ Raindrops
+#~ msgid "toki"
+#~ msgstr "とき色"
+# @ Raindrops
+#~ msgid "tutuji"
+#~ msgstr "つつじ色"
+# @ Raindrops
+#~ msgid "sakura"
+#~ msgstr "桜色"
+# @ Raindrops
+#~ msgid "bara"
+#~ msgstr "ばら色"
+# @ Raindrops
+#~ msgid "karakurenai"
+#~ msgstr "からくれない"
+# @ Raindrops
+#~ msgid "sango"
+#~ msgstr "さんご色"
+# @ Raindrops
+#~ msgid "koubai"
+#~ msgstr "紅梅（こうばい）色"
+# @ Raindrops
+#~ msgid "momo"
+#~ msgstr "桃色"
+# @ Raindrops
+#~ msgid "beni"
+#~ msgstr "紅色"
+# @ Raindrops
+#~ msgid "beniaka"
+#~ msgstr "紅赤"
+# @ Raindrops
+#~ msgid "enji"
+#~ msgstr "えんじ"
+# @ Raindrops
+#~ msgid "suou"
+#~ msgstr "蘇芳（すおう）"
+# @ Raindrops
+#~ msgid "akane"
+#~ msgstr "茜（あかね）色"
+# @ Raindrops
+#~ msgid "aka"
+#~ msgstr "赤"
+# @ Raindrops
+#~ msgid "syu"
+#~ msgstr "朱色"
+# @ Raindrops
+#~ msgid "benikaba"
+#~ msgstr "紅樺（べにかば）色"
+# @ Raindrops
+#~ msgid "benihi"
+#~ msgstr "紅緋（べにひ）"
+# @ Raindrops
+#~ msgid "entan"
+#~ msgstr "鉛丹"
+# @ Raindrops
+#~ msgid "beniebitya"
+#~ msgstr "紅海老茶"
+# @ Raindrops
+#~ msgid "tobi"
+#~ msgstr "とび色"
+# @ Raindrops
+#~ msgid "azuki"
+#~ msgstr "小豆（あずき）色"
+# @ Raindrops
+#~ msgid "bengara"
+#~ msgstr "弁柄（べんがら）色"
+# @ Raindrops
+#~ msgid "ebitya"
+#~ msgstr "海老茶"
+# @ Raindrops
+#~ msgid "kinaka"
+#~ msgstr "金赤"
+# @ Raindrops
+#~ msgid "akatya"
+#~ msgstr "赤茶"
+# @ Raindrops
+#~ msgid "akasabi"
+#~ msgstr "赤錆色"
+# @ Raindrops
+#~ msgid "ouni"
+#~ msgstr "黄丹（おうに）"
+# @ Raindrops
+#~ msgid "sekitou"
+#~ msgstr "赤橙"
+# @ Raindrops
+#~ msgid "kaki"
+#~ msgstr "柿色"
+# @ Raindrops
+#~ msgid "nikkei"
+#~ msgstr "肉桂（にっけい）色"
+# @ Raindrops
+#~ msgid "kaba"
+#~ msgstr "樺（かば）色"
+# @ Raindrops
+#~ msgid "renga"
+#~ msgstr "れんが色"
+# @ Raindrops
+#~ msgid "sabi"
+#~ msgstr "錆色"
+# @ Raindrops
+#~ msgid "hiwada"
+#~ msgstr "檜皮（ひわだ）色"
+# @ Raindrops
+#~ msgid "kuri"
+#~ msgstr "栗色"
+# @ Raindrops
+#~ msgid "kiaka"
+#~ msgstr "黄赤"
+# @ Raindrops
+#~ msgid "taisya"
+#~ msgstr "たいしゃ"
+# @ Raindrops
+#~ msgid "rakuda"
+#~ msgstr "らくだ色"
+# @ Raindrops
+#~ msgid "kitye"
+#~ msgstr "黄茶"
+# @ Raindrops
+#~ msgid "hadairo"
+#~ msgstr "肌色"
+# @ Raindrops
+#~ msgid "daidai"
+#~ msgstr "橙色"
+# @ Raindrops
+#~ msgid "haitya"
+#~ msgstr "灰茶"
+# @ Raindrops
+#~ msgid "tya"
+#~ msgstr "茶色"
+# @ Raindrops
+#~ msgid "kogetya"
+#~ msgstr "焦茶"
+# @ Raindrops
+#~ msgid "kouji"
+#~ msgstr "こうじ色"
+# @ Raindrops
+#~ msgid "anzu"
+#~ msgstr "杏色"
+# @ Raindrops
+#~ msgid "mikan"
+#~ msgstr "蜜柑色"
+# @ Raindrops
+#~ msgid "kassyoku"
+#~ msgstr "褐色"
+# @ Raindrops
+#~ msgid "tutiiro"
+#~ msgstr "土色"
+# @ Raindrops
+#~ msgid "komugi"
+#~ msgstr "小麦色"
+# @ Raindrops
+#~ msgid "kohaku"
+#~ msgstr "こはく色"
+# @ Raindrops
+#~ msgid "kintya"
+#~ msgstr "金茶"
+# @ Raindrops
+#~ msgid "tamago"
+#~ msgstr "卵色"
+# @ Raindrops
+#~ msgid "yamabuki"
+#~ msgstr "山吹色"
+# @ Raindrops
+#~ msgid "oudo"
+#~ msgstr "黄土色"
+# @ Raindrops
+#~ msgid "kutiba"
+#~ msgstr "朽葉（くちば）色"
+# @ Raindrops
+#~ msgid "himawari"
+#~ msgstr "ひまわり色"
+# @ Raindrops
+#~ msgid "ukon"
+#~ msgstr "うこん色"
+# @ Raindrops
+#~ msgid "suna"
+#~ msgstr "砂色"
+# @ Raindrops
+#~ msgid "karasi"
+#~ msgstr "芥子（からし）色"
+# @ Raindrops
+#~ msgid "ki"
+#~ msgstr "黄色"
+# @ Raindrops
+#~ msgid "tanpopo"
+#~ msgstr "たんぽぽ色"
+# @ Raindrops
+#~ msgid "uguisutya"
+#~ msgstr "鶯茶"
+# @ Raindrops
+#~ msgid "tyuki"
+#~ msgstr "中黄"
+# @ Raindrops
+#~ msgid "kariyasu"
+#~ msgstr "刈安（かりやす）色"
+# @ Raindrops
+#~ msgid "kihada"
+#~ msgstr "きはだ色"
+# @ Raindrops
+#~ msgid "miru"
+#~ msgstr "みる色"
+# @ Raindrops
+#~ msgid "biwa"
+#~ msgstr "ひわ色"
+# @ Raindrops
+#~ msgid "uguisu"
+#~ msgstr "鶯（うぐいす）色"
+# @ Raindrops
+#~ msgid "mattya"
+#~ msgstr "抹茶色"
+# @ Raindrops
+#~ msgid "kimidori"
+#~ msgstr "黄緑"
+# @ Raindrops
+#~ msgid "koke"
+#~ msgstr "苔色"
+# @ Raindrops
+#~ msgid "wakakusa"
+#~ msgstr "若草色"
+# @ Raindrops
+#~ msgid "moegi"
+#~ msgstr "萌黄（もえぎ）"
+# @ Raindrops
+#~ msgid "kusa"
+#~ msgstr "草色"
+# @ Raindrops
+#~ msgid "wakaba"
+#~ msgstr "若葉色"
+# @ Raindrops
+#~ msgid "matuba"
+#~ msgstr "松葉色"
+# @ Raindrops
+#~ msgid "byakuroku"
+#~ msgstr "白緑（びゃくろく）"
+# @ Raindrops
+#~ msgid "midori"
+#~ msgstr "緑"
+# @ Raindrops
+#~ msgid "tokiwa"
+#~ msgstr "常磐（ときわ）色"
+# @ Raindrops
+#~ msgid "rokusyou"
+#~ msgstr "緑青（ろくしょう）色"
+# @ Raindrops
+#~ msgid "titosemidori"
+#~ msgstr "千歳緑（ちとせみどり）"
+# @ Raindrops
+#~ msgid "fukamidori"
+#~ msgstr "深緑"
+# @ Raindrops
+#~ msgid "wakatake"
+#~ msgstr "若竹色"
+# @ Raindrops
+#~ msgid "seiji"
+#~ msgstr "青磁色"
+# @ Raindrops
+#~ msgid "aotake"
+#~ msgstr "青竹色"
+# @ Raindrops
+#~ msgid "tetu"
+#~ msgstr "鉄色"
+# @ Raindrops
+#~ msgid "aomidori"
+#~ msgstr "青緑"
+# @ Raindrops
+#~ msgid "sabiasagi"
+#~ msgstr "錆浅葱"
+# @ Raindrops
+#~ msgid "mizuasagi"
+#~ msgstr "水浅葱"
+# @ Raindrops
+#~ msgid "sinbasi"
+#~ msgstr "新橋色"
+# @ Raindrops
+#~ msgid "asagi"
+#~ msgstr "浅葱（あさぎ）色"
+# @ Raindrops
+#~ msgid "byakugun"
+#~ msgstr "白群（びゃくぐん）"
+# @ Raindrops
+#~ msgid "nando"
+#~ msgstr "納戸色"
+# @ Raindrops
+#~ msgid "kamenozoki"
+#~ msgstr "かめのぞき"
+# @ Raindrops
+#~ msgid "mizu"
+#~ msgstr "水色"
+# @ Raindrops
+#~ msgid "ainezu"
+#~ msgstr "藍鼠（あいねず）"
+# @ Raindrops
+#~ msgid "sora"
+#~ msgstr "空色"
+# @ Raindrops
+#~ msgid "ao"
+#~ msgstr "青"
+# @ Raindrops
+#~ msgid "ai"
+#~ msgstr "藍色"
+# @ Raindrops
+#~ msgid "koiai"
+#~ msgstr "濃藍（こいあい）"
+# @ Raindrops
+#~ msgid "wasurenagusa"
+#~ msgstr "勿忘草（わすれなぐさ）色"
+# @ Raindrops
+#~ msgid "tuyukusa"
+#~ msgstr "露草色"
+# @ Raindrops
+#~ msgid "hanada"
+#~ msgstr "はなだ色"
+# @ Raindrops
+#~ msgid "konjou"
+#~ msgstr "紺青（こんじょう）"
+# @ Raindrops
+#~ msgid "ruri"
+#~ msgstr "るり色"
+# @ Raindrops
+#~ msgid "rurikon"
+#~ msgstr "るり紺"
+# @ Raindrops
+#~ msgid "kon"
+#~ msgstr "紺色"
+# @ Raindrops
+#~ msgid "kakitubata"
+#~ msgstr "かきつばた色"
+# @ Raindrops
+#~ msgid "kati"
+#~ msgstr "勝色（かちいろ）"
+# @ Raindrops
+#~ msgid "gunjou"
+#~ msgstr "群青（ぐんじょう）色"
+# @ Raindrops
+#~ msgid "tetukon"
+#~ msgstr "鉄紺"
+# @ Raindrops
+#~ msgid "fujinando"
+#~ msgstr "藤納戸"
+# @ Raindrops
+#~ msgid "kikyou"
+#~ msgstr "ききょう色"
+# @ Raindrops
+#~ msgid "konai"
+#~ msgstr "紺藍"
+# @ Raindrops
+#~ msgid "fuji"
+#~ msgstr "藤色"
+# @ Raindrops
+#~ msgid "fujimurasaki"
+#~ msgstr "藤紫"
+# @ Raindrops
+#~ msgid "aomurasaki"
+#~ msgstr "青紫"
+# @ Raindrops
+#~ msgid "sumire"
+#~ msgstr "菫（すみれ）色"
+# @ Raindrops
+#~ msgid "hatoba"
+#~ msgstr "鳩羽（はとば）色"
+# @ Raindrops
+#~ msgid "syoubu"
+#~ msgstr "しょうぶ色"
+# @ Raindrops
+#~ msgid "edomurasaki"
+#~ msgstr "江戸紫"
+# @ Raindrops
+#~ msgid "murasaki"
+#~ msgstr "紫"
+# @ Raindrops
+#~ msgid "kodaimurasaki"
+#~ msgstr "古代紫"
+# @ Raindrops
+#~ msgid "nasukon"
+#~ msgstr "なす紺"
+# @ Raindrops
+#~ msgid "sikon"
+#~ msgstr "紫紺"
+# @ Raindrops
+#~ msgid "ayame"
+#~ msgstr "あやめ色"
+# @ Raindrops
+#~ msgid "botan"
+#~ msgstr "牡丹（ぼたん）色"
+# @ Raindrops
+#~ msgid "akamurasaki"
+#~ msgstr "赤紫"
+# @ Raindrops
+#~ msgid "siro"
+#~ msgstr "白"
+# @ Raindrops
+#~ msgid "gofun"
+#~ msgstr "胡粉（ごふん）色"
+# @ Raindrops
+#~ msgid "kinari"
+#~ msgstr "生成り（きなり）色"
+# @ Raindrops
+#~ msgid "zouge"
+#~ msgstr "象牙（ぞうげ）色"
+# @ Raindrops
+#~ msgid "ginnezu"
+#~ msgstr "銀鼠（ぎんねず）"
+# @ Raindrops
+#~ msgid "tyanezumi"
+#~ msgstr "茶鼠"
+# @ Raindrops
+#~ msgid "nezumi"
+#~ msgstr "鼠色"
+# @ Raindrops
+#~ msgid "rikyunezumi"
+#~ msgstr "利休鼠"
+# @ Raindrops
+#~ msgid "namari"
+#~ msgstr "鉛色"
+# @ Raindrops
+#~ msgid "hai"
+#~ msgstr "灰色"
+# @ Raindrops
+#~ msgid "susutake"
+#~ msgstr "すす竹色"
+# @ Raindrops
+#~ msgid "kurotya"
+#~ msgstr "黒茶"
+# @ Raindrops
+#~ msgid "sumi"
+#~ msgstr "墨"
+# @ Raindrops
+#~ msgid "kuro"
+#~ msgstr "黒"
+# @ Raindrops
+#~ msgid "tetukuro"
+#~ msgstr "鉄黒"
+# @ Raindrops
+#~ msgid "Category Blog Widget"
+#~ msgstr "カテゴリ　ブログ　ウィジェット"
+#~ msgid "permalink"
+#~ msgstr "パーマリンク"
+# @ Raindrops
+#~ msgid "This entry has no title"
+#~ msgstr "この投稿にはタイトルがありません"
+# @ Raindrops
+#~ msgid "More Galleries"
+#~ msgstr "ギャラリー詳細"
+#~ msgid "Bookmark the "
+#~ msgstr "　　"
+# @ Raindrops
+#, fuzzy
+#~ msgid "<span>Newer posts <span class=\"meta-nav\">&rarr;</span></span>"
+#~ msgstr "新しい投稿 <span class=\"meta-nav\">&rarr;</span>"
+
+# @ Raindrops
+#, fuzzy
+#~ msgid "This entry was posted in "
+#~ msgstr "この投稿にはタイトルがありません"
+
+# @ Raindrops
+#, fuzzy
+#~ msgid "Text Color "
+#~ msgstr "文字の色"
+
+# @ Raindrops
+#, fuzzy
+#~ msgid ""
+#~ "Please choose width on the page.\n"
+#~ "    Please choose from four kinds of inside of 750px centerd 950px "
+#~ "centerd fluid 974px."
+#~ msgstr ""
+#~ "750px 中央 950px 中央 100% fluid 974pxの4種類のページ幅からどれかを選んで"
+#~ "ください"
+
+# @ Raindrops
+#, fuzzy
+#~ msgid ""
+#~ "When display extra sidebar is set to show, it is necessary to specify it. "
+#~ "It can decide to divide the width of which place of extra sidebar and to "
+#~ "give it. Please select it from among 25% 33% 50% 66% 75%. "
+#~ msgstr ""
+#~ "エキストラサイドバーを表示させる設定にした時には、とエキストラサイドバーの"
+#~ "幅も設定する必要があります。25% 33% 50% 66% 75%.農地いずれかをセットしてく"
+#~ "ださい"
+
+# @ Raindrops
+#, fuzzy
+#~ msgid "Continue&nbsp;reading&nbsp;<span class=\"meta-nav\">&rarr;</span>"
+#~ msgstr "続きを読む <span class=\"meta-nav\">&rarr;</span>"
+
+# @ Raindrops
+#~ msgid "%s <span class=\"says\">says:</span>"
+#~ msgstr "%s <span class=\"says\">の発言:</span>"
+# @ Raindrops
+#~ msgid "(Edit)"
+#~ msgstr "（編集）"
+# @ Raindrops
+#~ msgid ""
+#~ "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s"
+#~ "\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+#~ msgstr ""
+#~ "カテゴリ： %1$s タグ：%2$s.  <a href=\"%3$s\" title=\"Permalink to %4$s\" "
+#~ "rel=\"bookmark\">パーマリンク</a>."
+# @ Raindrops
+#~ msgid ""
+#~ "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title="
+#~ "\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+#~ msgstr ""
+#~ "カテゴリ： %1$s. <a href=\"%3$s\" title=\"Permalink to %4$s\" rel="
+#~ "\"bookmark\">パーマリンク</a>."
+# @ Raindrops
+#~ msgid ""
+#~ "Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark"
+#~ "\">permalink</a>."
+#~ msgstr ""
+#~ " <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">パーマリン"
+#~ "ク</a>."
+# @ Raindrops
+#, fuzzy
+#~ msgid ""
+#~ "<span class=\"%1$s\">Posted on</span> %2$s <span class=\"meta-sep\">by</"
+#~ "span> %3$s %4$s"
+#~ msgstr ""
+#~ "<span class=\"%1$s\">Posted on</span> %2$s <span class=\"meta-sep\">by</"
+#~ "span> %3$s"
+
+# @ Raindrops
+#, fuzzy
+#~ msgid "Settings with Live preview "
+#~ msgstr "プリビューをみながら、テーマの設定ができます。"
+
